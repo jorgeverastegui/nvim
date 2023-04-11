@@ -113,7 +113,7 @@ Para clonar el proyecto:
 ###### Linux
 
 ```sh
-git clone https://github.com/jorge-ramirezs/nvim.git ~/.config/nvim
+git clone https://github.com/jorgeverastegui/nvim.git ~/.config/nvim
 ```
 
 ###### Windows
